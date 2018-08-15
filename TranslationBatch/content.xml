@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<root>
+    <data name="Authentication_Authentication_GivenSampleText">
+        <value>Key Value Sample Set</value>
+        <comment>Some Random Comment</comment>
+    </data>
+    <data name="Authentication_Authentication_BankName">
+        <value>Westpac Bank</value>
+        <comment>Some Random Comment</comment>
+    </data>
+    <data name="Authentication_Authentication_Country">
+        <value>Australia</value>
+        <comment>Some Random Comment</comment>
+    </data>
+    <data name="Authentication_Authentication_BumpAccount">
+        <value>Bump Account</value>
+        <comment>Some Random Comment</comment>
+    </data>
+</root>

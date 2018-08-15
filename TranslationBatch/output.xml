@@ -1,0 +1,18 @@
+<root>
+    <data name="Authentication_Authentication_GivenSampleText">
+        <value>&#2325;&#2369;&#2306;&#2332;&#2368; &#2350;&#2370;&#2354;&#2381;&#2351; &#2344;&#2350;&#2370;&#2344;&#2366; &#2360;&#2375;&#2335;</value>
+        <comment>Some Random Comment</comment>
+    </data>
+    <data name="Authentication_Authentication_BankName">
+        <value>&#2357;&#2375;&#2360;&#2381;&#2335;&#2346;&#2376;&#2325; &#2348;&#2376;&#2306;&#2325;</value>
+        <comment>Some Random Comment</comment>
+    </data>
+    <data name="Authentication_Authentication_Country">
+        <value>&#2321;&#2360;&#2381;&#2335;&#2381;&#2352;&#2375;&#2354;&#2367;&#2351;&#2366;</value>
+        <comment>Some Random Comment</comment>
+    </data>
+    <data name="Authentication_Authentication_BumpAccount">
+        <value>&#2335;&#2325;&#2381;&#2325;&#2352; &#2326;&#2366;&#2340;&#2366;</value>
+        <comment>Some Random Comment</comment>
+    </data>
+</root>
